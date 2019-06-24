@@ -1,5 +1,7 @@
 # Set up multiple windows and panes to multiple servers with tmux
 
+If you ever find yourself needing to ssh into multiple machines and run commands on each of them at the same time, you can use this template to tailor a tmux session with multiple windows.
+
 This script will create a tmux session that you can customize to your specific servers.
 Once customized, you can place in github/gitlab to share with your team (and keep in sync when there are changes).
 

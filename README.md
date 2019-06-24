@@ -1,7 +1,7 @@
 # Set up multiple windows and panes to multiple servers with tmux
 
 This script will create a tmux session that you can customize to your specific servers.
-Once customized, you can please in github/gitlab to share with your team.
+Once customized, you can place in github/gitlab to share with your team (and keep in sync when there are changes).
 
 See the include ~/.tmux.conf for a few useful bindings.
 
